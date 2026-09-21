@@ -35,3 +35,4 @@ The project file structure:
 
 ![alt text](https://github.com/dmitrii-govorukhin/SharePoint-search-chatbot-RAG-service-/blob/main/img/example_2.png?raw=true)
 
+![alt text](https://github.com/dmitrii-govorukhin/SharePoint-search-chatbot-RAG-service-/blob/main/img/example_4.png?raw=true)
