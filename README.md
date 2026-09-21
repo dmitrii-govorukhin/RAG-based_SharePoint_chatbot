@@ -27,7 +27,7 @@ The project file structure:
 
 **Results / Key Findings:** The chatbot connects artificial intelligence to the organization’s knowledge base to provide accurate answers based on up-to-date company documents, rather than just the neural network’s collective memory. 
 
-**Illustrations**: Step-by-step process, Chatbot interface examples.
+**Illustrations**: Step-by-step process, Chatbot interface examples...
 
 ![alt text](https://github.com/dmitrii-govorukhin/SharePoint-search-chatbot-RAG-service-/blob/main/img/process.png?raw=true)
 
