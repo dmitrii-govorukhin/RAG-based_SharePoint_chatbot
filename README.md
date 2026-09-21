@@ -23,7 +23,7 @@ The project file structure:
  - backend
     - main.py - backend script
  - frontend
-    - chatbot.html - frontend script and chatbot web interface
+    - chatbot.js - frontend script and chatbot web interface (html)
 
 **Results / Key Findings:** The chatbot connects artificial intelligence to the organization’s knowledge base to provide accurate answers based on up-to-date company documents, rather than just the neural network’s collective memory. 
 
