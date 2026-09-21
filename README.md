@@ -29,7 +29,7 @@ The project file structure:
 
 **Illustrations**: Step-by-step process, Chatbot interface examples.
 
-![alt text](https://github.com/dmitrii-govorukhin/SharePoint search chatbot (RAG-service)/blob/main/img/process.png?raw=true)
+![alt text](https://github.com/dmitrii-govorukhin/SharePoint-search-chatbot-RAG-service-/blob/main/img/process.png?raw=true)
 
 ![alt text](https://github.com/dmitrii-govorukhin/SharePoint search chatbot (RAG-service)/blob/main/img/example_1.png?raw=true)
 
