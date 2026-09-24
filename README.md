@@ -1,6 +1,6 @@
-# SharePoint search chatbot (RAG-service)
+# RAG-based SharePoint chatbot
 
-**Project**: The chatbot lets users ask ordinary questions about information stored on the SharePoint site. It combines SharePoint Search with GPT-5.6 to produce concise answers grounded in information retrieved from SharePoint.
+**Project**: The SharePoint chatbot uses a RAG architecture in which SharePoint Search retrieves relevant information from internal documents, and GPT-5.6 uses the retrieved information as context to generate a grounded natural-language answer.
 
 **Consumer**: Contra Costa County Employment and Human Services Department, CA
 
@@ -9,6 +9,8 @@
 **Python libraries are used**: requests, json, uuid, datetime, fastapi, pydantic, requests_negotiate_sspi, docx, pypdf, openai
 
 **Description**: 
+The chatbot lets users ask ordinary questions about information stored on the SharePoint site. It combines SharePoint Search with GPT-5.6 to produce concise answers grounded in information retrieved from SharePoint.
+
 The chatbot workflow:
 1. The user enters a question in everyday language; no SharePoint search syntax is required.
 2. JavaScript on SharePoint site sent the request to the backend server.
